@@ -3,7 +3,7 @@
     "title": "Unlock the future of farming",
     "paragraph": "Predict, Plan and Prosper"  },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We're dedicated to revolutionizing agricultural assistance by leveraging cutting-edge technology to empower farmers worldwide. Our mission is to provide accessible and innovative solutions that enhance crop productivity, improve decision-making, and foster sustainable farming practices.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -168,7 +168,7 @@
       "img": "img/features/r2.png",
       "title": "CROP RECOMMENDATION BOT",
       "text": "Crop Recommendation Bot  unlocks perfect crops with tailored advice based on soil health, climate, and market demand. Take the guesswork out of crop selection and embark on a path to sustainable farming success"
-   ,"link":"http://192.168.1.8:1234" },
+   ,"link":"http://192.168.1.8:3500" },
     {
       "img": "img/features/r3.png",
       "title": "YIELD PREDICTION BOT",
