@@ -16,9 +16,9 @@ export const Features = (props) => {
                   <h3>{d.title}</h3>
                   <p>{d.text}
                   <br />
-                  <a href={d.link} target="blank">Start Chat</a>
+                  
                   </p>
-
+                  <button><a href={d.link} target="blank" className="button">Start Chat</a></button>
 
                 </div>
               ))

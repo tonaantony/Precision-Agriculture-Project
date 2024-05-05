@@ -5,16 +5,16 @@
   "About": {
     "paragraph": "We're dedicated to revolutionizing agricultural assistance by leveraging cutting-edge technology to empower farmers worldwide. Our mission is to provide accessible and innovative solutions that enhance crop productivity, improve decision-making, and foster sustainable farming practices.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Optmized Crop Selection",
+      "Increased Yield",
+      "Risk Mitigation",
+      "Resource Efficiency",
+      "User-Friendly Interactions",
+      "Data Driven Decisions"
+      
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      
     ]
   },
   "Gallery": [
@@ -66,36 +66,21 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+      "img": "img/services/s1.jpg",
+      "name": "Personalized Crop Recomendations",
+      "text": "Offers personalized crop recommendations based on user inputs and local conditions."},
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+      "img": "img/services/s2.jpg",
+      "name": "Personalized Yield Predictrions ",
+      "text": "Offers personalized crop-yield predictions based on user inputs."}, 
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/services/s3.jpg",
+      "name": "Agricultural Assistance",
+      "text": "Serves user with agricultural optimization startegies."
     }
+  
   ],
+
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
@@ -163,17 +148,17 @@
       "img": "img/features/r1.png",
       "title": "HOPPER BOT",
       "text": "Meet Hopper Bot, your trusted companion for agricultural success. Say goodbye to guesswork and hello to informed decisions for bountiful harvests."
-    ,"link":"http://192.168.1.8:8501"},
+    ,"link":"http://172.24.181.37:8501"},
     {
       "img": "img/features/r2.png",
       "title": "CROP RECOMMENDATION BOT",
-      "text": "Crop Recommendation Bot  unlocks perfect crops with tailored advice based on soil health, climate, and market demand. Take the guesswork out of crop selection and embark on a path to sustainable farming success"
-   ,"link":"http://192.168.1.8:3500" },
+      "text": "Crop Recommendation Bot  unlocks perfect crops with tailored advice based on soil health, climate, and market demand. "
+   ,"link":"http://192.168.90.78:3500" },
     {
       "img": "img/features/r3.png",
       "title": "YIELD PREDICTION BOT",
-      "text": "Yield Prediction Bot anticipates future yields with confidence, providing strategic insights for planning and decision-making. Stay ahead of the curve and maximize profitability with reliable yield predictions."
-    ,"link":"http://192.168.1.7:4000"
+      "text": "Yield Prediction Bot anticipates future yields with confidence, providing strategic insights for planning and decision-making."
+    ,"link":"http://192.168.90.78:4000"
     }
   ]
 }
